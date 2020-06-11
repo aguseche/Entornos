@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form {
+    margin: auto;
+    width: 700px;
+    margin-top: 100px;
+}
+h1,textarea,input{
+    margin: 15px;
+    font-size: 18px;
+    padding: 15px;
+    width: 640px;
+
+    margin-bottom: 5px;
+}
+h1{
+    font-weight:bold;
+    font-size: 30px
+}
